@@ -1,0 +1,30 @@
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\bin\Debug\net6.0-windows\Aplikasi Kuis.exe
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\bin\Debug\net6.0-windows\Aplikasi Kuis.deps.json
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\bin\Debug\net6.0-windows\Aplikasi Kuis.runtimeconfig.json
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\bin\Debug\net6.0-windows\Aplikasi Kuis.dll
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\bin\Debug\net6.0-windows\Aplikasi Kuis.pdb
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\obj\Debug\net6.0-windows\Aplikasi Kuis.vbproj.AssemblyReference.cache
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\obj\Debug\net6.0-windows\Aplikasi_Kuis.DashboardForm.resources
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\obj\Debug\net6.0-windows\Aplikasi_Kuis.Form1.resources
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\obj\Debug\net6.0-windows\Aplikasi_Kuis.LoginForm.resources
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\obj\Debug\net6.0-windows\Aplikasi_Kuis.RegisterForm.resources
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\obj\Debug\net6.0-windows\Aplikasi Kuis.vbproj.GenerateResource.cache
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\obj\Debug\net6.0-windows\Aplikasi Kuis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\obj\Debug\net6.0-windows\Aplikasi Kuis.AssemblyInfoInputs.cache
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\obj\Debug\net6.0-windows\Aplikasi Kuis.AssemblyInfo.vb
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\obj\Debug\net6.0-windows\Aplikasi Kuis.vbproj.CoreCompileInputs.cache
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\obj\Debug\net6.0-windows\Aplikasi Kuis.vbproj.CopyComplete
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\obj\Debug\net6.0-windows\Aplikasi Kuis.dll
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\obj\Debug\net6.0-windows\refint\Aplikasi Kuis.dll
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\obj\Debug\net6.0-windows\Aplikasi Kuis.pdb
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\obj\Debug\net6.0-windows\Aplikasi Kuis.genruntimeconfig.cache
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\obj\Debug\net6.0-windows\ref\Aplikasi Kuis.dll
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\obj\Debug\net6.0-windows\Aplikasi_Kuis.KuisForm.resources
+C:\Users\wisma\Documents\00 CODING\VB .NET\Aplikasi Kuis\Aplikasi Kuis\obj\Debug\net6.0-windows\Aplikasi_Kuis.LeaderboardForm.resources

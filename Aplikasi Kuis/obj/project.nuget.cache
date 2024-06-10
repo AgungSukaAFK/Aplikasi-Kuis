@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Naj0ELwVSfhBq5l/DGATuMKKd54RkGCE2euCoEcbebBJjoH9cE4sw5vQcLIEiNIzA6NNK4G4YsW3sbcz+7ycLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wisma\\Documents\\00 CODING\\VB .NET\\Aplikasi Kuis\\Aplikasi Kuis\\Aplikasi Kuis.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wisma\\.nuget\\packages\\system.data.odbc\\8.0.0\\system.data.odbc.8.0.0.nupkg.sha512",
+    "C:\\Users\\wisma\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\wisma\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
